@@ -7,3 +7,12 @@ header {
 header a {
 	padding: 5px;
 }
+
+.disabled {
+	color: grey;
+}
+
+a.disabled {
+	color: purple;
+}
+
