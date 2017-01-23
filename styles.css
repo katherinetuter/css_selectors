@@ -19,3 +19,20 @@ a.disabled {
 .active {
 	color: yellow;
 }
+
+.red {
+	color: red;
+}
+
+.red ~ h4 {
+	background-color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.blue ~ h4 {
+	background-color: blue;
+}
+
