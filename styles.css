@@ -36,12 +36,17 @@ a.disabled {
 	background-color: blue;
 }
 
-h4 > {
+.grandparent > h4 {
 	border: 1px solid black;
-	border-radius: 70%;
+	border-radius: 100%;
 }
 
 .promo {
 	color: gold;
 	font-weight: bold;
+}
+
+input[type="text"] {
+	height: 25px;
+
 }
