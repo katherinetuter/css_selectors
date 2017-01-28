@@ -36,3 +36,12 @@ a.disabled {
 	background-color: blue;
 }
 
+h4 > {
+	border: 1px solid black;
+	border-radius: 70%;
+}
+
+.promo {
+	color: gold;
+	font-weight: bold;
+}
